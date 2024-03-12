@@ -1,0 +1,9 @@
+fly.toml
+.env
+.venv
+virtual/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
